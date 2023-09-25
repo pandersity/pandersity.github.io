@@ -1,15 +1,15 @@
 ---
 title: "About Me"
-weight: 3
+weight: 2
 header_menu: true
 ---
 
 ![PT Anderson](images/happy-ethnic-woman-sitting-at-table-with-laptop-3769021.jpg)
 
-##### Professional Experience
+##### PT Anderson
 
-A lot, but let us get into the details with some lorem ipsum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent feugiat lectus et magna placerat tincidunt. Nullam sit amet lectus vitae elit mollis rhoncus non eget lorem. Ut tempor sed dui quis volutpat.
+I am a linguist anthropologist by training and a computer programmer by trade. I have more than 12 years of experience working with Indigenous, Native American and First Nations communities in pursuit of language revitalization.
 
-----
+I am passionate about the intersection of language revitalization and accessible technology. I firmly believe that Indigenous communities should not only fully own their technologies but feel empowered to maintain their digital projects long term. 
 
-In ultrices, est at lobortis pretium, magna quam mollis neque, id viverra odio est sit amet lorem. Mauris efficitur nunc vel lectus porttitor, sit amet sodales quam eleifend. Duis et felis ut mauris dignissim efficitur. Aliquam non sem eros. Integer elit ante, bibendum id hendrerit vitae, vestibulum eget risus. Nunc efficitur nisl in iaculis vestibulum.
+To that end, 
