@@ -1,40 +1,63 @@
 ---
-title: "Services"
+title: "Developer Services"
 ---
 
-This is a page about the services, which I offer.
+Being a developer is hard.
 
-It carries a lot more detail than what I put on the homepage - I swear!
+Sure, you can write code. 
+But in small or underfunded projects, you are also asked to wear a lot of hats.
+- project manager
+- project architect
+- tester
+- grant writer
+- community liason
 
-You want to know what I can do for you?
-
-Well, let me tell ya!
-
----
-
-## Nutrition Coaching
-
-This is not an easy task. You will likely have to pay money for this. You know what - let us look at a nice picture first.
-
-![Nice picture to make you pay me ;-)](../images/selective-focus-photography-of-pasta-with-tomato-and-basil-1279330.jpg)
-
-Wow. That was nice, right? Well, call me and let us talk.
+With more than 12 years experience as a full stack developer, quality engineer, architect AND linguist/language revitalization, I am here to help fill in any gaps!
 
 ---
 
-## Chef Consulting
+### Feasabilty and Ethicality Consulting
 
-Did you see the picture above? I can show you how to go from
+Unfortunately, I am often hired by communities to clean up the mess left behind by unethical or non-transparent development. Don't let that be you!
 
-![Let us get started on a clean slate](../images/board-bunch-cooking-food-349609.jpg)
+Every Indigneous community is different, making "right-sized" projects different in each case. 
 
-to
+I believe most developers I work with are well-intentioned. But factors such as deadlines, budget, or inexperience working outside of the tech sector can leave communities in a worse place after the project is done.
 
-![Let us get started on a clean slate](../images/woman-pouring-juice-on-glass-3184192.jpg)
+My feasablity and ethicality consulting services will walk you through all the considerations for your project and community, so that everyone is happy with the final project!
 
-in estimated seconds.
 
-Don't believe me? Here are some bullets
+#### Documentation Review
 
-* If anyone can teach you to cook, I can
-* And if you already know how to cook, I will make you that much better
+Let's face it, your software is only as good as someone's ability to use it. And they can only use it if it's documented!
+
+Don't let your end user be the first person to struggle through your documentation. I am happy to walk both technical and end-user documentation to make sure your app is ready for prime time.
+
+#### Test Stragety Planning
+
+Both automated and manual testing strategies
+
+#### Test Writing
+
+Unit tests, integrations tests, E2E tests, even manual test scenarios. You need tests? I can write them. TS, JS, Python, .NET, and more.
+
+#### Acceptance Testing
+
+I like breaking apps. And when I do it, you get a heads up before you have to frantically fix bugs found by your end users!
+
+When you hire me to acceptance test your app, you get detailed feedback about bugs and errors - written by a developer, for a developer. So you can fix things fast.
+
+#### Project Architecture Consultant
+
+I can review your architecture, from both a technical perspective and a community perspective. 
+
+Questions I ask:
+- Does this architecture make sense in terms of technology and goals of the community?
+- Is this architecture sustainable by the community long term?
+- What training does the community need to maintain this project once it is done?
+
+#### and more!
+
+I love getting my hands into code. If you need something, I may be your guy.
+
+See {{<extlink text="my LinkedIn profile" href="https://www.pexels.com/video/sprinkle-of-rock-salt-on-sliced-vegetables-3209239/" icon="fa fa-external-link">}} for a more detailed work history in the tech sector
