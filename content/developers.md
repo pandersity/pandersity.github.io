@@ -60,4 +60,4 @@ Questions I ask:
 
 I love getting my hands into code. If you need something, I may be your guy.
 
-See {{<extlink text="my LinkedIn profile" href="https://www.pexels.com/video/sprinkle-of-rock-salt-on-sliced-vegetables-3209239/" icon="fa fa-external-link">}} for a more detailed work history in the tech sector
+See {{<extlink text="my LinkedIn profile" href="https://www.linkedin.com/in/pt-patricia-anderson/" icon="fa fa-external-link">}} for a more detailed work history in the tech sector
