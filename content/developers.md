@@ -26,6 +26,14 @@ I believe most developers I work with are well-intentioned. But factors such as 
 
 My feasablity and ethicality consulting services will walk you through all the considerations for your project and community, so that everyone is happy with the final project!
 
+#### Project Architecture Consultant
+
+I can review your architecture, from both a technical perspective and a community perspective. 
+
+Questions I ask:
+- Does this architecture make sense in terms of technology and goals of the community?
+- Is this architecture sustainable by the community long term?
+- What training does the community need to maintain this project once it is done?
 
 #### Documentation Review
 
@@ -46,15 +54,6 @@ Unit tests, integrations tests, E2E tests, even manual test scenarios. You need 
 I like breaking apps. And when I do it, you get a heads up before you have to frantically fix bugs found by your end users!
 
 When you hire me to acceptance test your app, you get detailed feedback about bugs and errors - written by a developer, for a developer. So you can fix things fast.
-
-#### Project Architecture Consultant
-
-I can review your architecture, from both a technical perspective and a community perspective. 
-
-Questions I ask:
-- Does this architecture make sense in terms of technology and goals of the community?
-- Is this architecture sustainable by the community long term?
-- What training does the community need to maintain this project once it is done?
 
 #### and more!
 
