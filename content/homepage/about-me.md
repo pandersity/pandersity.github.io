@@ -7,7 +7,7 @@ header_menu: true
 
 ![PT Anderson](images/headshot.jpg)
 
-I am a linguist anthropologist by training and a computer programmer by trade. I have more than 12 years of experience working with Indigenous, Native American and First Nations communities in pursuit of language revitalization.
+I am a linguistic anthropologist by training and a computer programmer by trade. I have more than 12 years of experience working with Indigenous, Native American and First Nations communities in pursuit of language revitalization.
 
 I am passionate about the intersection of language revitalization and accessible technology. 
 
