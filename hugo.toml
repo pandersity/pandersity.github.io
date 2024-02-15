@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://revitalizationtechnology.com/'
 languageCode = 'en-us'
 title = 'Revitalization Technology'
 theme = 'hugo-scroll'
