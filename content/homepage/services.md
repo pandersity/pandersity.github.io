@@ -56,6 +56,3 @@ A myriad of tasks could fall into this category. Here are some examples!
 - Renewing your SSL certificate
 - Provide guidance on how to organize digital knowledge and data
 - Select a backup battery so your website server does not go down during a power outage
-
-### Developers
-If you are developer looking for more technical consulting, see a more detailed list of [those services here](#for-developers).
