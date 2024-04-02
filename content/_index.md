@@ -6,9 +6,8 @@ header_image: "images/header_background.jpg"
 header_use_video: false
 #
 # Optional header logo. CSS: `#blog-logo`, with max-height defined, optimize to prevent scaling
-header_logo: "images/logo_color.png"
+header_logo: "images/logo_color_stacked.png"
 #
 # Headers are safeHTML, you can use HTML tags such as b,i,u,br
-header_headline: "Revitalization Technology"
-header_subheadline: "Language Revitalization Technology Consulting"
+header_subheadline: "Empowering Community Language Revitalization"
 ---
