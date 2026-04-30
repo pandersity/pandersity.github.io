@@ -1,5 +1,5 @@
 baseURL = 'http://revitalizationtechnology.com/'
-languageCode = 'en-us'
+locale = 'en-us'
 title = 'Revitalization Technology'
-theme = 'hugo-scroll'
+theme = 'hugo-hero-theme'
 googleAnalytics = 'G-084817PXB0'
