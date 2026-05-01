@@ -8,49 +8,29 @@ heroHeading: 'Dictionary Consulting'
 heroSubHeading: 'Thinking of acquiring another business? Let us guide you through the process.'
 heroBackground: 'services/service2.jpg'
 ---
+Indigenous language dictionaries are my specialty.
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+I have worked with numerous communities undertaking dicitonary projects, at all stages of development - everything from *where do we start?* to *we're done, now how do we publish this online?*
 
-## Ne verba patulosque numen vix libet
+ As author of [*Revitalization Lexicography*](https://uapress.arizona.edu/book/revitalization-lexicography), I firmly believe that dictionaries done with planning and care can help reverse langauge shift.
 
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
+ # Dictionary Services Offered
+ The following services 
 
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
+## Dictionary Planning 
+Facilitated planning sessions that clarify the purpose, scope, and priorities of the dictionary, grounded in community goals, linguistic needs, and practical constraints.
 
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
+## Lexicographic Technology Evaluation and Selection  
+Comprehensive assessment of available lexicographic technologies, including structured comparisons, demonstrations, and clear recommendations outlining strengths, limitations, risks, and long‑term sustainability considerations for each option.
 
-## Postquam tamen
+## Technology Implementation  
+End‑to‑end implementation support, including configuration, onboarding, training, and coordination with technology providers to ensure smooth adoption and reliable long‑term operation.
 
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
+## Data Entry Workflow Refinement  
+Analysis and optimization of existing data entry processes, identifying friction points, aligning workflows with editorial goals, and providing targeted training to improve efficiency and consistency.
 
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
+## Publication and Digital Distribution  
+Support for preparing dictionary content for print release, including formatting aligned with publisher requirements. For digital distribution, we can provide guidance on sustainable distribution pathways.
 
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
-
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
+## User Training
+Digital dictionaries are often living documents. They need to be updated as you interact with the language. We can provide training so that your team can expand on the dictionary as it grows.

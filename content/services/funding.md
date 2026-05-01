@@ -1,5 +1,5 @@
 ---
-title: 'Technical Grant Writing'
+title: 'Grant Writing'
 date: 2018-11-28T15:15:26+10:00
 icon: 'services/service-icon-3.png'
 featured: true
@@ -19,6 +19,10 @@ petunt dempserat dixisse, pro raptae aut male?
 - Dente reponere dixere referre excessitque seque
 - Tacui si cui inde haec ubi trepidas
 - Coniunx nulla aut
+
+Note - we do not identify funding sources. 
+
+
 
 ## Geniti facinus praeruptam atris ab manus in
 
