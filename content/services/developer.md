@@ -1,9 +1,10 @@
 ---
 title: 'Developer Help'
 date: 2018-11-28T15:14:54+10:00
-icon: 'services/service-icon-1.png'
+icon: 'services/service-icon-developer-50.png'
 featured: true
 draft: false
+weight: 4
 heroHeading: 'Developer Help'
 heroSubHeading: 'Ensuring your code works for your community'
 heroBackground: 'services/service1.jpg'

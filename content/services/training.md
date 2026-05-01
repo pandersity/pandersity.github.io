@@ -1,10 +1,10 @@
 ---
-title: 'Training'
+title: 'User Training'
 date: 2018-11-18T12:33:46+10:00
-icon: 'services/service-icon-5.png'
+icon: 'services/service-icon-training-50.png'
 draft: false
 featured: true
-weight: 1
+weight: 3
 heroHeading: 'Training and Documentation'
 heroSubHeading: 'Be empowered in your technology'
 heroBackground: 'services/service1.jpg'

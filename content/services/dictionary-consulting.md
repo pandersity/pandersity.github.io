@@ -1,9 +1,10 @@
 ---
 title: 'Dictionaries'
 date: 2018-11-28T15:15:34+10:00
-icon: 'services/service-icon-4.png'
+icon: 'services/service-icon-book-48.png'
 featured: true
 draft: false
+weight: 1
 heroHeading: 'Dictionary Consulting'
 heroSubHeading: 'Thinking of acquiring another business? Let us guide you through the process.'
 heroBackground: 'services/service2.jpg'

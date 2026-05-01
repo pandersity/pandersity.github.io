@@ -1,9 +1,10 @@
 ---
 title: 'Software Evaluation'
 date: 2018-11-28T15:14:39+10:00
-icon: 'services/service-icon-2.png'
+icon: 'services/service-icon-rate-80.png'
 featured: true
 draft: false
+weight: 2
 heroHeading: 'Software Evaluation and Selection'
 heroSubHeading: 'Expert advice and guidance when you need it most.'
 heroBackground: 'services/service2.jpg'

@@ -1,9 +1,10 @@
 ---
 title: 'Grant Writing'
 date: 2018-11-28T15:15:26+10:00
-icon: 'services/service-icon-3.png'
+icon: 'services/service-icon-writing-50.png'
 featured: true
 draft: false
+weight: 5
 heroHeading: 'Secure Funding'
 heroSubHeading: 'We can help value your business and prepare it for sale.'
 heroBackground: 'services/service1.jpg'

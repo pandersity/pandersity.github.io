@@ -1,12 +1,12 @@
 ---
-title: 'Speaking'
+title: 'Workshops'
 date: 2018-11-18T12:33:46+10:00
-icon: 'services/service-icon-6.png'
+icon: 'services/service-icon-presentation-50.png'
 draft: false
 featured: true
-weight: 2
-heroHeading: 'Speaking Engagements'
-heroSubHeading: 'Preparing and filing your tax return'
+weight: 6
+heroHeading: 'Speaking & Workshops'
+heroSubHeading: 'Sharing knowledge far and wide'
 heroBackground: 'services/service2.jpg'
 ---
 
