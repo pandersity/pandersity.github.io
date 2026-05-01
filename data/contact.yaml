@@ -1,0 +1,28 @@
+email: 'revitalizationtech@gmail.com'
+phone: '+1 360-830-6776'
+businessName: 'Revitalization Technology'
+scheduleLink: 'https://calendly.com/revitalizationtech/45-min-meeting'
+address_hidden: |
+  Seattle, WA, USA
+hours_hidden:
+  - day: Monday
+    open: 8:30am
+    close: 5:00pm
+  - day: Tuesday
+    open: 8:30am
+    close: 5:00pm
+  - day: Wednesday
+    open: 8:30am
+    close: 5:00pm
+  - day: Thursday
+    open: 8:30am
+    close: 5:00pm
+  - day: Friday
+    open: 8:30am
+    close: 5:00pm
+  - day: Saturday
+    open: Closed
+    close:
+  - day: Sunday
+    open: Closed
+    close:
