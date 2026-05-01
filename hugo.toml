@@ -45,11 +45,6 @@ googleAnalytics = 'G-084817PXB0'
     weight = 3
 
 [[menu.main]]
-    name = "History"
-    url = "/history/"
-    weight = 3
-
-[[menu.main]]
     name = "Contact"
     url = "/contact/"
     weight = 4
