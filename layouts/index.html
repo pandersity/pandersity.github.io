@@ -38,10 +38,13 @@
 
 #homepage-carousel .carousel-item {
   min-height: 400px;
-  display: flex !important;
   align-items: center;
   justify-content: center;
   text-align: center;
+}
+
+#homepage-carousel .carousel-item.active {
+  display: flex;
 }
 
 #homepage-carousel .carousel-caption {
@@ -94,6 +97,68 @@
     </div>
   </div>
 </div>
+{{ end }}
+
+{{ $testimonials := .Site.Data.testimonials }}
+{{ if gt (len $testimonials) 0 }}
+<div id="homepage-testimonials" class="strip bg-light py-8">
+  <div class="container">
+    <div class="row justify-content-center mb-6">
+      <div class="col-12 col-lg-8 text-center">
+        <h2 class="mb-3">What people are saying</h2>
+        <p class="lead">Firsthand feedback from collaborators and community partners who have worked with us.</p>
+      </div>
+    </div>
+    <div class="row justify-content-center">
+      <div class="col-12 col-lg-10">
+        {{ partial "carousel.html" (dict "id" "testimonial-carousel" "items" $testimonials) }}
+      </div>
+    </div>
+  </div>
+</div>
+<style>
+#testimonial-carousel {
+  min-height: 340px;
+  background: rgba(255, 255, 255, 0.96);
+}
+#testimonial-carousel .carousel-inner {
+  padding: 2rem 1rem;
+}
+#testimonial-carousel .carousel-item {
+  min-height: 260px;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+#homepage-carousel .carousel-item.active {
+  display: flex;
+}
+#testimonial-carousel .carousel-caption {
+  position: static;
+  color: #262626;
+  background: rgba(255, 255, 255, 0.92);
+  padding: 2rem;
+  border-radius: 1rem;
+  box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.08);
+  max-width: 720px;
+  margin: 0 auto;
+}
+#testimonial-carousel .carousel-caption h5 {
+  font-size: 1rem;
+  font-weight: 700;
+  margin-top: 1rem;
+  margin-bottom: 0;
+}
+#testimonial-carousel .carousel-caption p {
+  font-size: 1.25rem;
+  line-height: 1.8;
+  margin: 0;
+}
+#testimonial-carousel .carousel-control-prev-icon,
+#testimonial-carousel .carousel-control-next-icon {
+  filter: invert(0) brightness(0.6);
+}
+</style>
 {{ end }}
 
 {{ $services := where (where .Site.RegularPages "Type" "services") ".Params.featured" true }}
