@@ -1,0 +1,52 @@
+{{ $items := .Page.Params.items | default (slice) }}
+{{ $id := .Get "id" | default "homepage-carousel" }}
+{{ $height := .Get "height" | default "400px" }}
+
+<style>
+#{{ $id }} {
+  min-height: {{ $height }};
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#{{ $id }} .carousel-inner {
+  background: inherit;
+}
+
+#{{ $id }} .carousel-item {
+  min-height: {{ $height }};
+  display: flex !important;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+#{{ $id }} .carousel-caption {
+  position: static;
+  color: white;
+  background: rgba(0, 0, 0, 0.3);
+  padding: 3rem;
+  border-radius: 8px;
+  max-width: 80%;
+}
+
+#{{ $id }} .carousel-caption h5 {
+  font-size: 2rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+
+#{{ $id }} .carousel-caption p {
+  font-size: 1.1rem;
+  line-height: 1.6;
+}
+
+#{{ $id }} .carousel-control-prev-icon,
+#{{ $id }} .carousel-control-next-icon {
+  filter: invert(1) brightness(1.2);
+}
+</style>
+
+{{ partial "carousel.html" (dict "id" $id "items" $items) }}
