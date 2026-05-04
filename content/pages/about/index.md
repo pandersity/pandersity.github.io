@@ -2,7 +2,7 @@
 title: 'About'
 date: 2018-12-06T09:29:16+10:00
 layout: 'about'
-heroHeading: 'About Us'
+heroHeading: 'PAGES - About Us'
 heroSubHeading: "About My File"
 heroBackground: 'https://source.unsplash.com/sO-JmQj95ec/1600x1000'
 ---
