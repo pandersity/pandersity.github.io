@@ -10,8 +10,6 @@ heroSubHeading: 'Ensuring your code works for your community'
 heroBackground: 'services/service1.jpg'
 ---
 
-Being a developer is hard.
-
 As a full stack developer with more than a decade of experience in both technology and language revitalization, I offer a number of unique services that can take your project to the next level.
 
 Sure, you can write code. 
@@ -22,7 +20,7 @@ But in small or underfunded projects, you are also asked to wear a lot of hats.
 - grant writer
 - community liason
 
-With more than 12 years experience as a full stack developer, quality engineer, architect AND linguist/language revitalization, I am here to help fill in any gaps!
+With more than 12 years experience as a full stack developer, quality engineer, architect **and** linguist/language revitalization, I am here to help fill in any gaps!
 
 
 ## Feasabilty and Ethicality Consulting

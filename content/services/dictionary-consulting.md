@@ -6,8 +6,8 @@ featured: true
 draft: false
 weight: 1
 heroHeading: 'Dictionary Consulting'
-heroSubHeading: 'Thinking of acquiring another business? Let us guide you through the process.'
-heroBackground: 'services/service2.jpg'
+heroSubHeading: 'Building dictionaries that serve communities for generations'
+heroBackground: ''
 ---
 Indigenous language dictionaries are my specialty.
 
@@ -16,7 +16,7 @@ I have worked with numerous communities undertaking dicitonary projects, at all 
  As author of [*Revitalization Lexicography*](https://uapress.arizona.edu/book/revitalization-lexicography), I firmly believe that dictionaries done with planning and care can help reverse langauge shift.
 
  # Dictionary Services Offered
- The following services 
+ 
 
 ## Dictionary Planning 
 Facilitated planning sessions that clarify the purpose, scope, and priorities of the dictionary, grounded in community goals, linguistic needs, and practical constraints.
