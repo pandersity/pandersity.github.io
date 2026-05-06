@@ -10,10 +10,9 @@ heroSubHeading: 'Technology as Empowerment'
 heroBackground: ''
 ---
 
-Feel confident in your technology
+Technology shouldn’t feel overwhelming or exclusive.
 
-Technology shouldn’t feel overwhelming or exclusive. When tools are difficult to update or maintain, it can leave teams feeling stuck—and less tech‑savvy community members may feel left out of the process. I provide clear, accessible training that helps everyone feel capable and included.
-
+When tools are difficult to update or maintain, it can leave teams feeling stuck—and less tech‑savvy community members may feel left out of the process. I provide clear, accessible training that helps everyone feel capable and included.
 
 ## Learn Your Tech Stack
 

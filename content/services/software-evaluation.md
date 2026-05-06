@@ -5,9 +5,9 @@ icon: 'services/service-icon-rate-80.png'
 featured: true
 draft: false
 weight: 2
-heroHeading: 'Software Evaluation and Selection'
+heroHeading: 'Software Evaluation'
 heroSubHeading: 'Expert advice and guidance when you need it most.'
-heroBackground: 'services/service2.jpg'
+heroBackground: 'services/service1.jpg'
 ---
 
 Lorem markdownum, dictis umbrosum dextrum, Lelegeia quamquam distantes pares
