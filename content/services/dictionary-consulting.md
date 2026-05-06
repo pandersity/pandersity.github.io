@@ -7,7 +7,7 @@ draft: false
 weight: 1
 heroHeading: 'Dictionary Consulting'
 heroSubHeading: 'Building dictionaries that serve communities for generations'
-heroBackground: ''
+heroBackground: 'services/service-dictionary-1.png'
 ---
 Indigenous language dictionaries are my specialty.
 

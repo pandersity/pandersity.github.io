@@ -7,7 +7,7 @@ featured: true
 weight: 3
 heroHeading: 'Training and Documentation'
 heroSubHeading: 'Technology as Empowerment'
-heroBackground: ''
+heroBackground: 'services/service.jpg'
 ---
 
 Technology shouldn’t feel overwhelming or exclusive.
