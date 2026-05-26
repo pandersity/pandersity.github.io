@@ -10,7 +10,7 @@ heroSubHeading: 'Ensuring your code works for your client'
 heroBackground: 'services/service2.jpg'
 ---
 
-As a full stack developer with more than a decade of experience in both technology and language revitalization, I offer a number of unique services that can take your project to the next level.
+As a full stack developer and linguist, I offer a number of unique services that can take your project to the next level.
 
 Sure, you can write code. 
 But in small or underfunded projects, you are also asked to wear a lot of hats.

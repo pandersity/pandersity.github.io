@@ -33,5 +33,5 @@ Analysis and optimization of existing data entry processes, identifying friction
 ## Publication and Digital Distribution  
 Support for preparing dictionary content for print release, including formatting aligned with publisher requirements. For digital distribution, we can provide guidance on sustainable distribution pathways.
 
-## User Training
+## Maintenance Training
 Digital dictionaries are often living documents. They need to be updated as you interact with the language. We can provide training so that your team can expand on the dictionary as it grows.
