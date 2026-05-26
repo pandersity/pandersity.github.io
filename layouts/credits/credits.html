@@ -1,0 +1,33 @@
+{{ define "header_css" }}{{ end }}
+{{ define "body_classes" }}page-credits{{ end }}
+{{ define "header_classes" }}{{ end }}
+
+{{ define "main" }}
+<div class="intro intro-small">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <h1>{{ .Title }}</h1>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="container">
+  <div class="row">
+    <div class="col-12 col-md-8">
+      {{ .Content }}
+      {{ if .Site.Data.credits }}
+      <h4 class="mt-4">Site Credits:</h4>
+      <table class="table table-sm credits-table">
+        {{ range .Site.Data.credits }}
+        <tr>
+          <a href="{{ .Site.Data.credits.url }}">
+                {{ .Site.Data.credits.text }}</a>
+        </tr>
+        {{ end }}
+      </table>
+      {{ end }}
+    </div>
+  </div>
+</div>
+{{ end }}
