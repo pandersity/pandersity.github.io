@@ -12,7 +12,7 @@
     {{ range $index, $item := .items }}
     <div class="carousel-item {{ if eq $index 0 }}active{{ end }}">
       <div class="carousel-caption">
-        <h5>{{ $item.title }}</h5>
+        <h5>{{ $item.person }}</h5>
         <p>{{ $item.text }}</p>
       </div>
     </div>
