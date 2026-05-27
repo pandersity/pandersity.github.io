@@ -8,17 +8,12 @@ weight: 4
 heroHeading: 'Developer Help'
 heroSubHeading: 'Ensuring your code works for your client'
 heroBackground: 'services/service2.jpg'
+summary: 'I offer a number of unique services that can take your project to the next level.'
 ---
 
-As a full stack developer and linguist, I offer a number of unique services that can take your project to the next level.
+Unique services that can take your project to the next level
 
-Sure, you can write code. 
-But in small or underfunded projects, you are also asked to wear a lot of hats.
-- project manager
-- project architect
-- tester
-- grant writer
-- community liason
+Developers in small or underfunded projects are asked to wear a lot of hats. You might have to be the project manager, the architect, the UX designer, and the lead quality tester.
 
 With more than 12 years experience as a full stack developer, quality engineer, architect **and** linguist/language revitalization, I am here to help fill in any gaps!
 

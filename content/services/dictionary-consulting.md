@@ -8,6 +8,7 @@ weight: 1
 heroHeading: 'Dictionary Consulting'
 heroSubHeading: 'Building dictionaries that serve communities for generations'
 heroBackground: 'services/service-dictionary-1.png'
+summary: 'Community‑driven, collaborative, and sustainable dictionary projects'
 ---
 Indigenous language dictionaries are my specialty.
 

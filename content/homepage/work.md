@@ -2,7 +2,7 @@
 title: 'Tech Made Better'
 weight: 1
 background: 'images/kevin-bhagat-461952-unsplash.jpg'
-button: 'Our Work'
+button: 'My Work'
 buttonLink: 'work'
 ---
 

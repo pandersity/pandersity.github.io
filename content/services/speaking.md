@@ -20,6 +20,7 @@ I offer lectures, invited talks, and conference presentations that bridge lingui
 - Decentralizing the dictionary in lexicography
 - Community‑driven approaches to language documentation
 - Reawakening of sleeping languages
+- Decolonizing language work
 - Current and future langauge technology landscape
 - Collaborative models between researchers and Indigenous communities
 - Long‑term planning for digital language resources
