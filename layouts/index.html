@@ -19,69 +19,6 @@
 
 {{ partial "hero-image-fullscreen.html" (dict "background" .Params.heroBackground "heading" .Params.heroHeading "subheading" .Params.heroSubHeading "content" .)}}
 
-{{ if .Params.items }}
-<div id="homepage-carousel-section" class="carousel-section">
-  {{ partial "carousel.html" (dict "id" "homepage-carousel" "items" .Params.items) }}
-</div>
-<style>
-#homepage-carousel {
-  min-height: 400px;
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
-#homepage-carousel .carousel-inner {
-  background: inherit;
-}
-
-#homepage-carousel .carousel-item {
-  min-height: 400px;
-  align-items: center;
-  justify-content: center;
-  text-align: center;
-}
-
-#homepage-carousel .carousel-item.active {
-  display: flex;
-}
-
-#homepage-carousel .carousel-caption {
-  position: static;
-  color: white;
-  background: rgba(0, 0, 0, 0.3);
-  padding: 3rem;
-  border-radius: 8px;
-  max-width: 80%;
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-  min-height: 300px;
-}
-
-#homepage-carousel .carousel-caption h5 {
-  font-size: 0.95rem;
-  font-weight: normal;
-  margin: 0;
-  margin-top: auto;
-  order: 2;
-}
-
-#homepage-carousel .carousel-caption p {
-  font-size: 1.6rem;
-  line-height: 1.8;
-  margin: 0;
-  order: 1;
-}
-
-#homepage-carousel .carousel-control-prev-icon,
-#homepage-carousel .carousel-control-next-icon {
-  filter: invert(1) brightness(1.2);
-}
-</style>
-{{ end }}
-
 {{ $headless := .Site.GetPage "/homepage" }}
 {{ $reusablePages := $headless.Resources.ByType "page" }}
 {{ $reusablePages := sort $reusablePages ".Params.weight" }}
@@ -140,14 +77,15 @@
   padding: 2rem;
   border-radius: 1rem;
   box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.08);
-  max-width: 720px;
+  max-width: 700px;
   margin: 0 auto;
 }
 #testimonial-carousel .carousel-caption h5 {
   font-size: 1rem;
-  font-weight: 700;
+  font-weight: 500;
   margin-top: 1rem;
   margin-bottom: 0;
+  font-style: italic;
 }
 #testimonial-carousel .carousel-caption p {
   font-size: 1.25rem;
