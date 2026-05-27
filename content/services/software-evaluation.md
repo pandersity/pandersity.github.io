@@ -8,58 +8,23 @@ weight: 2
 heroHeading: 'Software Evaluation'
 heroSubHeading: 'Expert advice and guidance when you need it most.'
 heroBackground: 'services/service1.jpg'
+summary: 'Practical, transparent software evaluations grounded in real workflows, real needs, and real data stewardship.'
 ---
 
-Lorem markdownum, dictis umbrosum dextrum, Lelegeia quamquam distantes pares
-ignisque quaerit dederat gemino Aethiopesque [caelo](#inque-ne-collocat)
-ulciscitur est. Morte [lugebere](#esse-ferro-nisi) conatur [Pallada
-quaerentes](#pia-non) tulit, **ignis vagatur undis**, latitantem ignemque non
-laevo. Terras seu favoni tectas movit hunc motuque damno tutoque quattuor. Leto
-duo arbore, tua paelice regnis scopulis ut Lachne Menoetae nigra repugnat
-Coroneus est qui viscere barbariam **seris**. Vim in quamquam colla ventura
-remos, Procne mane atque sic solent [non caelestibus](#iuvabat-limumque).
+Helping communities select tools that truly fit their work.
 
-## Inter pectore totidem
+Selecting the right software is one of the most consequential decisions a language project can make. The tools you choose shape workflows, influence participation, and determine how easily your team can maintain and grow the work over time. My software evaluation service provides a clear, community‑aligned assessment that helps you make confident, sustainable choices.
 
-Presserat [transitque inde](#diversa-iam-inter). Vel montes tum cohors Tityos
-lassavit nihil oracula exiguo ligatis.
+I begin by understanding your community’s goals, technical comfort levels, and long‑term vision. From there, I evaluate each software option through multiple lenses:
 
-## Novis hunc qua erat caecisque
+- **Community Fit** — How well the tool supports your team’s actual workflows, capacity, and values.
 
-Et Aeneae, nivosos magos, donata in quod cum [terris](#loco-aris), cumque solum,
-manibus auro moenibus glaebas. Manus incaluere. Nunc audiat teneat dextra,
-finivit cui male venit moves! Senior et niger tepido parenti fuit, in ponit
-spectemur et opto speret. Ferum Neptunus tergore.
+- **Ease of Use** — Whether community members with different levels of technical experience can navigate the tool without frustration.
 
-Nunc erant super: sacra cingebant tandem: rogabam terras, ripa. Cum est scire
-est increpat, leaena ipsa venae me minus casusve tauri. Poscis sacrorum
-_congerit currus_ Hippotades poenas. Non capta, **saturatos tecti** dum versata,
-cum Phineu, nomina dataque rubenti ignorant non lymphata, ara.
+- **Strengths and Limitations** — A balanced, practical look at what the software does well and where it may fall short for your specific needs.
 
-## Naiades latuere rubenti tendere os Phrygum eminus
+- **Comparable Alternatives** — Clear, actionable comparisons that help you weigh trade‑offs and understand what matters most for your project.
 
-Respondit et tela viae illas saetas prodidit facta novitate, iurare trahitur
-morte tecta [pugnabo](#se). Est age, paelicis vestigia tremor capillis carere
-formae ne ait modo. Considere suam anguicomae neque Amphitrite dixit
-[quamvis](#ardore-ruborem-nutrit) meri convicia et dotem, tunc aderis metu ego
-habenas nec domum humo? Esse orba suo pedem tandem, pignus qui me tellus a
-Acmona male exuere ecce; [pelagi](#sed), Procnen causam? Carpe vertice tua etiam
-interdum detinet nec tanta capillos spolieris tutoque ventos _Iunonis_ Iovis
-retemptat _rexit generumque_ fides.
+- **Data Security and Stewardship** — An assessment of how each tool handles data storage, access, backups, and long‑term control, with attention to community ownership and safety.
 
-## Statuunt nais inponere tamen duodena aemulus mille
-
-Feriat humilis recuset parum! Bitumine nati indignatus; longa nec vulnus cognita
-pondere, incola se non aut, frangitur! Cavis resoluta: ilia ardeat terraeque
-nova, adhuc! Ferox fertque tellus Iunonis: [virgineos sum](#tenues) contigerant
-terga pater, quod ore nam praecipiti levatus virilia Hylen. Inhaesit mucro,
-superum moveri late rota rapi avis amans _toto_, carpere reclinis pietas
-habenas, ne dici Canenti.
-
-1. Induruit huc grave simili
-2. Praecincti natos
-3. Ad dedit parentem
-4. Linguae pendent
-
-Non sensu est fecerat his rerum insignia verba, aeno nubila curvi. Tutus sibi
-isset; nec non ille vero abstulit, ite est. Digitoque ora ego aethera, comas?
+The result is a grounded, transparent evaluation that supports informed decision‑making. My goal is not just to recommend a tool, but to help your community understand the implications of each option so you can choose technology that strengthens your work today and remains sustainable for the future.

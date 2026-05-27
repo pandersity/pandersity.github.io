@@ -14,7 +14,12 @@ Insightful, grounded events on sustainable language technology.
 
 I offer lectures, invited talks, and conference presentations that bridge linguistic research, community‑centered design, and sustainable language technology. My academic speaking focuses on connecting theory with lived practice, giving audiences a clear view of how revitalization work unfolds on the ground.
 
+## Grounded in Practice, Informed by Research
+My talks draw from more than a decade of hands‑on work with community‑led revitalization projects. I emphasize practical insights, ethical considerations, and the design decisions that shape successful long‑term outcomes.
+
 ## Topics I Speak On
+
+I am available to speak on any of the following topics and more:
 
 - Digital lexicography and sustainable dictionary workflows
 - Decentralizing the dictionary in lexicography
@@ -26,20 +31,16 @@ I offer lectures, invited talks, and conference presentations that bridge lingui
 - Long‑term planning for digital language resources
 - [Revitalization lexicography](https://uapress.arizona.edu/book/revitalization-lexicography)
 - Career advice for emerging language workers and students entering revitalization and tech‑adjacent fields
-
 - Designing software data exchange for transferable language
 
-
-## Grounded in Practice, Informed by Research
-My talks draw from more than a decade of hands‑on work with community‑led revitalization projects. I emphasize practical insights, ethical considerations, and the design decisions that shape successful long‑term outcomes.
 
 ## For Academic Programs and Events
 I regularly speak with:
 
-- Linguistics departments and graduate seminars
-- Digital humanities and information science programs
-- Language revitalization certificate programs
-- Conferences, symposia, and invited colloquia
+- **+** Linguistics departments and graduate seminars
+- **+** Digital humanities and information science programs
+- **+** Language revitalization certificate programs
+- **+** Conferences, symposia, and invited colloquia
 
 Each talk is tailored to the audience’s background—whether they’re students encountering revitalization work for the first time or researchers seeking deeper engagement with community‑centered methodologies.
 

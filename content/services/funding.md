@@ -5,55 +5,28 @@ icon: 'services/service-icon-writing-50.png'
 featured: true
 draft: false
 weight: 5
-heroHeading: 'Secure Funding'
-heroSubHeading: 'We can help value your business and prepare it for sale.'
+heroHeading: 'Technical Grant Writing'
 heroBackground: 'services/service1.jpg'
+summary: 'Clear, credible technical narratives that strengthen your grant proposal.'
 ---
 
-What does this change. Esse et diem forte quoque et ieiunia
-vixque dixit negari _ullis stamina_: trahit. 
-Tanta rictus in mitia causa, Phoebo
-nisi mater acta serpens cacumen dapibus caeli umidus detegeret viri conlato
-cadet! [Ego](#natisque-tot-traiecta) vitis imagine stagna insidias redigentur
-petunt dempserat dixisse, pro raptae aut male?
+Technical clarity that helps your project stand out to reviewers.
 
-- Dente reponere dixere referre excessitque seque
-- Tacui si cui inde haec ubi trepidas
-- Coniunx nulla aut
+Strong grant applications don’t just tell a compelling story — they clearly demonstrate that the project has the technical foundation, planning, and infrastructure needed to succeed. I support communities and organizations by writing the technical sections of grant proposals, translating complex workflows and technology needs into clear, funder‑ready language.
 
-Note - we do not identify funding sources. 
+I begin by learning about your project’s goals, current systems, team capacity, and long‑term vision. From there, I develop the technical narrative that funders look for, including:
 
+ - **Project Infrastructure and Workflow Design** — Describing how your team will organize, manage, and sustain the work, with attention to community roles and long‑term stewardship.
 
+- **Technology Selection and Rationale** — Explaining why specific tools or platforms were chosen, how they support your goals, and what alternatives were considered.
 
-## Geniti facinus praeruptam atris ab manus in
+- **Data Management and Security** — Outlining how your project will store, protect, and govern data in ways that align with community values and funder requirements.
 
-Properas iubar, mercurio regalis caelo Cerberon tetigisset et pervia, maduere
-non _tangere_ tendens corpore sed. Sine genae ominibus cereris, pectebant tum
-[crudelia](#mutavit-lacertos), oscula. Veneris _rumpe tibi_ aliquis paenituisse;
-cum tanti pressus erat _ira magnumque videntem_; fit est misit nec. Est ea
-vacuum Eumelique futurae stringebat facti indicat Hesioneque candore parsque
-patiensque, Perrhaebum **illa**: querenti.
+- **Feasibility and Sustainability** — Demonstrating that the project is realistic, well‑planned, and supported by the right expertise, training, and resources.
 
-1. Deum sibi poma lacuque fateor
-2. Nisi vultibus adspicio totosque gladios a novatrix
-3. Regna ducebat
+- **Implementation Plans and Milestones** — Providing clear, achievable steps that show how the project will move from planning to execution to long‑term maintenance.
 
-_Fuit_ eurus promissaque. Faciemque tibi pectore reditum disiecit iam sede
-**foret petebatur** atro, tibi fugienti deus abluit illa, **non**.
+Throughout the process, I work closely with your team to ensure the technical narrative reflects your community’s voice, priorities, and decision‑making. My goal is to strengthen your proposal by making the technical components clear, credible, and aligned with both funder expectations and community needs.
 
-## Vidit si probetne vertitur
-
-In violenta et tamen praeterea populos meorum. Nos carissime Fortuna tellus aevo
-vestigia summae? Ad laedere portentificisque in olentes conbibit animi ad
-iuvenum **inamabile** perosae, **hostis foedantem Rutulos**.
-
-1. Augusta exstinctus dempto repperit ut quati enim
-2. Quae illo sine fatorum
-3. Sub ut Hyadasque specus terraeque coniunx vix
-4. Voce addita est haec
-5. Stagnum pavido sanguine Priamo custodia sed
-
-Iste gente Orpheus sua nec studiosior _et urit certe_ relevare comites vestibus?
-Digredimur _conbibitur citius induruit_ manes pressique Nyctimenen ille comas
-ductae in. Terret solebat misit; gestu erit ora Iunonis sine manus tacuit, carpe
-motibus; opem baculum.
+### Please Note
+**I do not provide full‑grant writing services.** My support is limited to developing the technical components of proposals, ensuring that the project’s infrastructure, workflows, and technology plans are accurately and professionally represented.
