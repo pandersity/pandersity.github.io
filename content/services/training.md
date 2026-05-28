@@ -7,7 +7,7 @@ featured: true
 weight: 3
 heroHeading: 'Training and Documentation'
 heroSubHeading: 'Technology as Empowerment'
-heroBackground: 'services/service.jpg'
+heroBackground: ''
 summary: 'Clear, accessible training that helps everyone feel capable and included.'
 ---
 

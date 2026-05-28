@@ -1,0 +1,24 @@
+<div class="work work-summary">
+  {{ if .Params.thumbnail }}
+  <div class="work-image">
+    <a href="{{ .RelPermalink }}"><img src="{{ .Params.thumbnail | relURL }}"/></a>
+  </div>
+  {{ end }}
+  <div class="work-content">
+    <h2 class="work-title">
+      <a href="{{ .Permalink }}">{{ .Title }}</a>
+    </h2>
+    {{ $text := .Content | plainify }}
+
+    {{ if .Params.summary }}
+      {{ .Params.summary }}
+    {{ else }}
+      {{ $dotPreview := findRE `(?s)^.{0,120}?\.` $text }}
+      {{ if gt (len $dotPreview) 0 }}
+        {{ index $dotPreview 0 }}
+      {{ else }}
+        {{ $text | truncate 120 "..." }}
+      {{ end }}
+    {{ end }}
+  </div>
+</div>
