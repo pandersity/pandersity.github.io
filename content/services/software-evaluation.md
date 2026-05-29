@@ -8,7 +8,7 @@ weight: 2
 heroHeading: 'Software Evaluation'
 heroSubHeading: 'Expert advice and guidance when you need it most.'
 heroBackground: 'services/service1.jpg'
-summary: 'Practical, transparent software evaluations grounded in real workflows, real needs, and real data stewardship.'
+summary: 'Practical, transparent software evaluations grounded in real workflows, centering data stewarship.'
 ---
 
 Helping communities select tools that truly fit their work.

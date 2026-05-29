@@ -1,5 +1,5 @@
 ---
-title: 'Grant Writing'
+title: 'Technical Grant Help'
 date: 2018-11-28T15:15:26+10:00
 icon: 'services/service-icon-writing-50.png'
 featured: true

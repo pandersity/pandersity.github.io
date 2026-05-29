@@ -35,7 +35,7 @@ googleAnalytics = 'G-084817PXB0'
     weight = 1
 
 [[menu.main]]
-    name = "Work"
+    name = "Portfolio"
     url = "/work/"
     weight = 2
 
