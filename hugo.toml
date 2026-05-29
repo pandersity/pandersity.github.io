@@ -16,9 +16,9 @@ googleAnalytics = 'G-084817PXB0'
     mobile = "images/logo_color.png"
     mobile_height = "36px"
     mobile_width = "36px"
-    desktop = "images/logo_black.png"
-    desktop_height = "29px"
-    desktop_width = "217px"
+    desktop = "images/logo_color_fullNameOnly.png"
+    desktop_height = "50px"
+    desktop_width = "300px"
     alt = "Hugo Hero"
 
   [params.homepage_meta_tags]
