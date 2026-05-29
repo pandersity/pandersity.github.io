@@ -12,9 +12,9 @@ summary: 'Community‑driven, collaborative, and sustainable dictionary projects
 ---
 Indigenous language dictionaries are my specialty.
 
-I have worked with numerous communities undertaking dicitonary projects, at all stages of development - everything from *where do we start?* to *we're done, now how do we publish this online?*
+We have worked with numerous communities undertaking dicitonary projects, at all stages of development - everything from *where do we start?* to *we're done, now how do we publish this online?*
 
- As author of [*Revitalization Lexicography*](https://uapress.arizona.edu/book/revitalization-lexicography), I firmly believe that dictionaries done with planning and care can help reverse langauge shift.
+We firmly believe that dictionaries done with planning and care can [help reverse langauge shift](https://uapress.arizona.edu/book/revitalization-lexicography).
 
  # Dictionary Services Offered
  

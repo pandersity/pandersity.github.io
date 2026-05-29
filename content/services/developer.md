@@ -8,7 +8,7 @@ weight: 4
 heroHeading: 'Developer Support'
 heroSubHeading: 'Ensuring your code works for your client'
 heroBackground: 'services/service2.jpg'
-summary: 'I offer a number of unique services that can take your project to the next level.'
+summary: 'We offer a number of unique services that can take your project to the next level.'
 ---
 
 Unique services that can take your project to the next level
