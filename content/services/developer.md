@@ -4,11 +4,11 @@ date: 2018-11-28T15:14:54+10:00
 icon: 'services/service-icon-developer-50.png'
 featured: true
 draft: false
-weight: 4
+weight: 3
 heroHeading: 'Developer Support'
 heroSubHeading: 'Ensuring your code works for your client'
 heroBackground: 'services/service2.jpg'
-summary: 'We offer a number of unique services that can take your project to the next level.'
+summary: 'Unique services that can take your development project to the next level.'
 ---
 
 Unique services that can take your project to the next level

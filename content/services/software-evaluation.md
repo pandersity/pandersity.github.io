@@ -4,11 +4,11 @@ date: 2018-11-28T15:14:39+10:00
 icon: 'services/service-icon-rate-80.png'
 featured: true
 draft: false
-weight: 2
+weight: 4
 heroHeading: 'Software Evaluation'
 heroSubHeading: 'Expert advice and guidance when you need it most.'
 heroBackground: 'services/service1.jpg'
-summary: 'Practical, transparent software evaluations grounded in real workflows, centering data stewarship.'
+summary: 'Practical, transparent software evaluations grounded in real workflows that center data stewarship.'
 ---
 
 Helping communities select tools that truly fit their work.

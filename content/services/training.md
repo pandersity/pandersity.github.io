@@ -4,7 +4,7 @@ date: 2018-11-18T12:33:46+10:00
 icon: 'services/service-icon-training-50.png'
 draft: false
 featured: true
-weight: 3
+weight: 2
 heroHeading: 'Training and Documentation'
 heroSubHeading: 'Technology as Empowerment'
 heroBackground: ''
