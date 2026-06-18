@@ -1,5 +1,5 @@
 ---
-title: 'Our Work in Action'
+title: 'Who We Work With'
 weight: 1
 background: 'work/forest_path.jpg'
 button: 'Portfolio'

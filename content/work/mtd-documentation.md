@@ -2,11 +2,11 @@
 title: 'Mother Tongues Dictionaries'
 date: 2018-11-18T12:33:46+10:00
 draft: false
-weight: 2
+weight: 5
 heroHeading: 'Mother Tongues Dictionaries'
 heroSubHeading: 'Testing and Writing User Documentation'
 heroBackground: 'work/unit_test.jpg'
-summary: 'Built sharper docs and smarter tests to make development faster and more reliable.'
+summary: 'Building sharper docs and smarter tests to make development faster and more reliable.'
 ---
 Supported development and testing for community-first software
 

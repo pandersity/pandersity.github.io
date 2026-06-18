@@ -6,7 +6,7 @@ weight: 1
 heroHeading: 'Thangmi Dictionary'
 heroSubHeading: 'Eight dialects, two dictionaries'
 heroBackground: 'work/mountains.jpg'
-summary: 'Transformed 30 years of Thangmi language work into modern digital and print dictionaries with thousands of entries and audio clips.'
+summary: 'Transforming 30 years of language work into dictionaries with thousands of entries and audio clips.'
 ---
 
 Building Digital and Print Dictionaries for the Thangmi Language

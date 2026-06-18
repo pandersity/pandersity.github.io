@@ -2,14 +2,12 @@
 title: 'Legacy PDF to searchable text'
 date: 2018-11-18T12:33:46+10:00
 draft: false
-weight: 4
+weight: 3
 heroHeading: 'Unlocking OCR'
 heroSubHeading: 'Improving Digital Scanning for the Newar Online Dictionary'
 heroBackground: 'work/handwritten_note.jpg'
-thumbnail: 'https://source.unsplash.com/tjX_sniNzgQ/400x300'
-images: ['https://source.unsplash.com/random/400x600/?nature']
 ---
-Evaluated and redesigned the OCR workflow to improve accuracy and multilingual formatting.
+Evaluating and redesigning the OCR workflow to improve accuracy and multilingual formatting.
 
 The Newar Online Dictionary team needed a more reliable way to convert their multilingual dictionary manuscripts — written in Devanagari and Latin scripts — into accurate, editable digital text. Their existing OCR workflow produced inconsistent results and required extensive manual correction. 
 

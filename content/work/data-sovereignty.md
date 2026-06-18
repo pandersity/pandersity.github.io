@@ -2,11 +2,10 @@
 title: 'Data Sovereignty Evaluation'
 date: 2018-11-18T12:33:46+10:00
 draft: false
-weight: 6
+weight: 2
 heroHeading: 'Data Sovereignty Evaluation'
 heroSubHeading: 'Ensuring your tools honor the sovereignty of your data'
 heroBackground: 'https://source.unsplash.com/tjX_sniNzgQ/1600x400'
-thumbnail: 'https://source.unsplash.com/tjX_sniNzgQ/400x300'
 summary: 'Independent security review to help a community determine if their data would be protected'
 ---
 Evaluating Software for Community Safety and Readiness

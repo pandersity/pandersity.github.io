@@ -13,12 +13,12 @@ googleAnalytics = 'G-084817PXB0'
   google_analytics_id="G-084817PXB0"
 
   [params.logo]
-    mobile = "images/logo_color.png"
-    mobile_height = "36px"
-    mobile_width = "36px"
-    desktop = "images/logo_color_fullNameOnly.png"
-    desktop_height = "50px"
-    desktop_width = "300px"
+    mobile = "images/Wordmark_Transparent_Cropped.png"
+    mobile_height = "70px"
+    mobile_width = "150px"
+    desktop = "images/Wordmark_Transparent_Cropped.png"
+    desktop_height = "70px"
+    desktop_width = "150px"
     alt = "Hugo Hero"
 
   [params.homepage_meta_tags]
@@ -30,17 +30,17 @@ googleAnalytics = 'G-084817PXB0'
     meta_og_description = "Hero is a multipurpose Hugo theme with fullscreen hero images and page sections. It contains content types for a business or portfolio site."
 
 [[menu.main]]
-	name = "Services"
+	name = "What"
 	url = "/services/"
     weight = 1
 
 [[menu.main]]
-    name = "Portfolio"
+    name = "How"
     url = "/work/"
     weight = 2
 
 [[menu.main]]
-    name = "About"
+    name = "Why"
     url = "/about/"
     weight = 3
 
