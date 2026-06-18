@@ -40,7 +40,7 @@ googleAnalytics = 'G-084817PXB0'
     weight = 2
 
 [[menu.main]]
-    name = "Why"
+    name = "Who"
     url = "/about/"
     weight = 3
 

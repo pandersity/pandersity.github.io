@@ -19,6 +19,11 @@
           <a class="button" href="{{ .Params.buttonLink | relURL }}">{{ .Params.button }}</a>
         {{ end }}
       </div>
+      {{ if .Params.image }}
+      <div class="col-12 col-md-6 {{ if eq .Params.align "left" }}offset-md-6{{ end }}">
+        <img src="{{ .Params.image | relURL }}" class="img-fluid">
+      </div>
+      {{ end }}
     </div>
   </div>
 </div>
