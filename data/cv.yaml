@@ -1,0 +1,117 @@
+education:
+  - degree: PhD
+    institution: Tulane University
+    year: 2017
+    field: Linguistic Anthropology
+
+  - degree: MA
+    institution: Tulane University
+    year: 2014
+    field: Linguistic Anthropology
+
+  - degree: BA
+    institution: DePauw University
+    year: 2009
+    field: Latin American Studies
+
+publications:
+  - year: 2024
+    type: incollection
+    authors:
+      - Patricia Anderson
+      - Judith Maxwell
+    title: "Tunica"
+    booktitle: "The Languages and Linguistics of Indigenous North America, Volume 2"
+    editors:
+      - Carmen Jany
+      - Marianne Mithun
+      - Keren Rice
+    publisher: "De Gruyter"
+
+  - year: 2023
+    type: book
+    editors:
+      - Andrew Abdalian
+      - Patricia Anderson
+      - Raina Heaton
+      - Judith Maxwell
+      - Donna Pierite
+      - Elisabeth Mora
+      - Brett Nelson
+      - Mackenzie Walters
+      - Mary Kate Kelly
+      - Craig Alcantara
+    title: "Beginning Tunica Textbook"
+    publisher: "Indiana University Press"
+
+  - year: 2020
+    type: book
+    authors:
+      - Patricia Anderson
+    title: "Revitalization Lexicography: The Making of the New Tunica Dictionary"
+    publisher: "University of Arizona Press"
+
+  - year: 2019
+    type: incollection
+    authors:
+      - Patricia Anderson
+      - Judith Maxwell
+    title: "Tunica Language"
+    booktitle: "Languages of Louisiana"
+    editors:
+      - Nathalie Dajko
+      - Shana Walton
+    publisher: "University Press of Mississippi"
+
+  - year: 2018
+    type: incollection
+    authors:
+      - Judith Maxwell
+      - Patricia Anderson
+      - Raina Heaton
+    title: "Tunica Language Reawakening"
+    booktitle: "The Tunica-Biloxi"
+
+  - year: 2017
+    type: article
+    authors:
+      - Raina Heaton
+      - Patricia Anderson
+    title: "When Animals Become Humans: Grammatical Gender in Tunica"
+    journal: "International Journal of American Linguistics"
+    volume: 83
+    number: 2
+
+  - year: 2016
+    type: article
+    authors:
+      - Patricia Anderson
+    title: "Translaryngeal Phonological Processes in Tunica: An Optimality Theory Approach"
+    journal: "Fleur-De-Ling: Tulane University Working Papers in Linguistics"
+
+patents:
+
+  - year: 2022
+    type: patent
+    authors:
+      - Rafael Zimberoff
+      - Aliaksandr Hramadski
+      - Alexander Uslontsev
+      - Patricia Anderson
+      - Stanislav Tugushev
+    title: "Token-based transport rules"
+    patent_number: "US11227252B2"
+    issued: "2022-01-18"
+
+  - year: 2013
+    type: patent
+    authors:
+      - Rafael Zimberoff
+      - Alexander Uslontsev
+      - Stanislav Tugushev
+      - Aliaksandr Hramadski
+      - Avi Levin
+      - Patricia Anderson
+    title: "Systems and methods for providing extended shipping options"
+    patent_number: "US8521656B2"
+    issued: "2013-08-27"

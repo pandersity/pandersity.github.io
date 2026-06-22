@@ -1,6 +1,8 @@
 ---
-title: 'Profressional Record'
-date: 2018-02-22T17:01:34+07:00
+title: 'Professional Record'
+date: 2026-05-01T11:52:18+07:00
+heroHeading: 'Professional Record'
+heroSubHeading: 'Education, Publications and Patents'
 ---
 
-My CV!
+

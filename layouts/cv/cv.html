@@ -1,0 +1,57 @@
+{{ define "header_css" }}{{ end }}
+{{ define "body_classes" }}page-cv{{ end }}
+{{ define "header_classes" }}{{ end }}
+
+{{ define "main" }}
+{{ partial "hero-image-setheight.html" (dict "background" .Params.heroBackground "heading" .Params.heroHeading "subheading" .Params.heroSubHeading "section" .Section "content" .)}}
+
+  <div class="container">
+
+    <h2 class="title is-2">Publications</h2>
+
+    {{ $pubs := sort .Site.Data.cv.publications "year" "desc" }}
+
+    <div class="content">
+      <ul>
+        {{ range $pubs }}
+        <li style="margin-bottom: 1.2rem;">
+          <strong>{{ .year }}</strong>
+          <span style="margin-left: .5rem;">
+            {{ if .authors }}{{ delimit .authors ", " }}. {{ end }}
+            {{ if .title }}<em>{{ .title }}</em>. {{ end }}
+            {{ if .booktitle }}{{ .booktitle }}. {{ end }}
+            {{ if .editors }}Edited by {{ delimit .editors ", " }}. {{ end }}
+            {{ if .journal }}{{ .journal }}. {{ end }}
+            {{ if .volume }}{{ .volume }}{{ end }}
+            {{ if .number }}({{ .number }}). {{ end }}
+            {{ if .publisher }}{{ .publisher }}.{{ end }}
+          </span>
+        </li>
+        {{ end }}
+      </ul>
+    </div>
+
+    <hr>
+
+    <h2 class="title is-3">Patents</h2>
+
+    {{ $patents := sort .Site.Data.cv.patents "year" "desc" }}
+
+    <div class="content">
+      <ul>
+        {{ range $patents }}
+        <li style="margin-bottom: 1.2rem;">
+          <strong>{{ .year }}</strong>
+          <span style="margin-left: .5rem;">
+            {{ delimit .authors ", " }}.
+            “{{ .title }}.”
+            U.S. Patent {{ .patent_number }}.
+            Issued {{ .issued }}.
+          </span>
+        </li>
+        {{ end }}
+      </ul>
+    </div>
+
+  </div>
+{{ end }}
