@@ -26,5 +26,5 @@ We developed functional tests that evaluated how major features performed in rea
 #### CI/CD Integration  
 We added the new test suites to the project’s continuous integration and continuous deployment pipeline. This automated testing workflow now runs on every pull request, giving the project lead immediate insight into whether a contribution is stable, secure, and ready for review. As a result, the approval process for future commits is faster, more confident, and less dependent on manual verification.
 
-### The Result
+## The Result
 Through this collaboration, Mother Tongues Dictionaries gained clearer documentation, stronger testing infrastructure, and a more maintainable development workflow, laying a solid foundation for their v2 release and for the long‑term sustainability of their open‑source ecosystem.

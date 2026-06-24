@@ -5,16 +5,16 @@ draft: false
 weight: 4
 heroHeading: 'New Tunica Dictionary'
 heroSubHeading: 'Reawkening the Tunica language'
-heroBackground: 'https://source.unsplash.com/tjX_sniNzgQ/1600x400'
+heroBackground: 'work/bayou2.jpg'
 summary: 'Building technology workflows in community-led lexicography'
 ---
 Technology, Workflow Design, and Community‑Led Lexicography.
 
 The Tunica Dictionary App is a central resource in the revitalization of the once-sleeping Tunica language, providing speakers and language learners with a modern, accessible, and community‑guided dictionary across iOS, Android, and the web. 
 
-My work on this project spans the full lifecycle of the dictionary—from designing the technical infrastructure to coordinating linguistic decisions with Tunica teachers. As documented in my book, [Revitalization Technology: The Making of the New Tunica Dictionary](https://uapress.arizona.edu/book/revitalization-lexicography), this project represents a deep collaboration between technology and community.
+Collaborative work on this project spans the full lifecycle of the dictionary—from designing the technical infrastructure to coordinating linguistic decisions with Tunica teachers. As documented in my book, [Revitalization Lexicography](https://uapress.arizona.edu/book/revitalization-lexicography), this project represents a deep collaboration between technology and community.
 
-### Designing the Workflow and Selecting the Platform
+#### Designing the Workflow and Selecting the Platform
 I began by designing the full workflow that would support the creation, editing, and publication of the Tunica Dictionary App. This included:
 
 - Selecting the technology stack that could support a multilingual dictionary with audio, example sentences, and frequent updates.
@@ -23,7 +23,7 @@ I began by designing the full workflow that would support the creation, editing,
 
 This foundation ensured that the dictionary could grow and evolve under community leadership, not just technical oversight.
 
-### Community‑Centered Lexicography and Editorial Coordination
+#### Community‑Centered Lexicography and Editorial Coordination
 As described in Revitalization Technology, my role extended far beyond technical implementation. I worked closely with Tunica teachers and language learners to shape the content and structure of the dictionary.
 
 Key responsibilities included:
@@ -36,7 +36,7 @@ Key responsibilities included:
 
 This work ensured that the Tunica Dictionary App reflects not only linguistic accuracy but also cultural authority and community consensus.
 
-### Maintaining and Updating the Tunica Dictionary App
+#### Maintaining and Updating the Tunica Dictionary App
 Once the dictionary was launched, I continued to serve as the technical steward responsible for keeping the app secure, functional, and aligned with the latest language decisions.
 
 My ongoing responsibilities include:
