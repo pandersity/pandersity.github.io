@@ -17,25 +17,23 @@ When tools are difficult to update or maintain, it can leave teams feeling stuck
 
 ## Learn Your Tech Stack
 
-Tech stack trainings allow you to understand the tools that power your work. Rather than relying on 3rd parties to 
-
-Training can include topics such as:
+Tech stack trainings allow you to understand the tools that power your work. Rather than relying on 3rd parties. Training can include topics such as:
 
 - How to safely back up your website
 - How to navigate software updates
 - How to organize files and audio so they are maintainable longterm
 - How to interact with app stores (Google Play, Apple, etc.)
 
-My goal is to make your technology understandable, sustainable, and less intimidating.
+Our goal is to make your technology understandable, sustainable, and less intimidating.
 
 ## Master Your Software
 
-If routine tasks take too long or feel frustrating with a particular software tool, I can observe your current workflow and work with you to streamline it. 
+If routine tasks take too long or feel frustrating with a particular software tool, we can observe your current workflow and work with you to streamline it. 
 
-Together, we identify more efficient, less stressful ways to get things done—so your tools support your work instead of slowing it down.
+Together, we identify more efficient, less stressful ways to get things done, so your tools support your work instead of slowing it down.
 
 ## Leave a Written Record
 
 You are not the last person to touch this technology. Others will come after you. Clear, easy to understand written record can help onboard new users.
 
-All training sessions include resulting written documentation.
+All training sessions include resulting written documentation that can be used by your community in perpetuity.

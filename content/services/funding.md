@@ -28,5 +28,5 @@ We begin by learning about your project’s goals, current systems, team capacit
 
 Throughout the process, we work closely with your team to ensure the technical narrative reflects your community’s voice, priorities, and decision‑making. Our goal is to strengthen your proposal by making the technical components clear, credible, and aligned with both funder expectations and community needs.
 
-### Please Note
+## Please Note
 **We do not provide full‑grant writing services.** Our support is limited to developing the technical components of proposals, ensuring that the project’s infrastructure, workflows, and technology plans are accurately and professionally represented.

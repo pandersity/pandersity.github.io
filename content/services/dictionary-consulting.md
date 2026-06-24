@@ -10,11 +10,13 @@ heroSubHeading: 'Building dictionaries that serve communities for generations'
 heroBackground: 'services/service-dictionary-1.png'
 summary: 'Community‑driven, collaborative, and sustainable dictionary projects'
 ---
-Indigenous language dictionaries are my specialty.
+Indigenous language dictionaries are our specialty.
 
 We have worked with numerous communities undertaking dicitonary projects, at all stages of development - everything from *where do we start?* to *we're done, now how do we publish this online?*
 
 We firmly believe that dictionaries done with planning and care can [help reverse langauge shift](https://uapress.arizona.edu/book/revitalization-lexicography).
+
+See examples of our work with the [Thangmi Dictionary](/work/thangmi) and the [New Tunica Dictionary](/work/tunica-dictionary)
 
  # Dictionary Services Offered
  
