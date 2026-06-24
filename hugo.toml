@@ -9,6 +9,10 @@ googleAnalytics = 'G-084817PXB0'
     extended = true
     min = "0.92.0"
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
 [params]
   google_analytics_id="G-084817PXB0"
 
