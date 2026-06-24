@@ -8,7 +8,7 @@ heroSubHeading: 'Integrating language and customizing software'
 heroBackground: 'https://source.unsplash.com/tjX_sniNzgQ/1600x400'
 ---
 
-Putting language alongside digital heritage collections in ways that make sense.
+Putting language alongside digital heritage collections.
 
 A community approached us about their use of [Mukurtu](www.mukurtu.org), an open-source platform to manage and share digital cultural hertage content.
 
