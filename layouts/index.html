@@ -1,0 +1,141 @@
+{{ define "title" }}{{ .Site.Title }}{{ end}}
+{{ define "header_css" }}{{ end }}
+{{ define "body_classes" }}page-home{{ end }}
+{{ define "header_classes" }}header-transparent{{ end }}
+
+{{ define "meta_tags" }}
+<meta name="description" content="{{ .Site.Params.homepage_meta_tags.meta_description }}" />
+<meta property="og:title" content="{{ .Site.Params.homepage_meta_tags.meta_og_title }}" />
+<meta property="og:type" content="{{ .Site.Params.homepage_meta_tags.meta_og_type }}" />
+<meta property="og:url" content="{{ .Site.Params.homepage_meta_tags.meta_og_url }}" />
+<meta property="og:image" content="{{ .Site.Params.homepage_meta_tags.meta_og_image }}" />
+<meta property="og:description" content="{{ .Site.Params.homepage_meta_tags.meta_og_description }}" />
+<meta name="twitter:card" content="{{ .Site.Params.homepage_meta_tags.meta_twitter_card }}" />
+<meta name="twitter:site" content="{{ .Site.Params.homepage_meta_tags.meta_twitter_site }}" />
+<meta name="twitter:creator" content="{{ .Site.Params.homepage_meta_tags.meta_twitter_creator }}" />
+{{ end }}
+
+{{ define "main" }}
+
+{{ partial "hero-image-fullscreen.html" (dict "background" .Params.heroBackground "heading" .Params.heroHeading "subheading" .Params.heroSubHeading "content" .)}}
+
+{{ $headless := .Site.GetPage "/homepage" }}
+
+{{ $services := where (where .Site.RegularPages "Type" "services") ".Params.featured" true }}
+{{if gt (len $services) 0}}
+<div class="container pt-8 pb-8 pb-md-14 pt-md-14">
+  <div class="row justify-content-start">
+    <div class="col-12">
+      <h2 class="text-center mb-3">{{ with .Site.GetPage "/services/" }}{{ .Title | default "Our Services" }}{{ end }}</h2>
+    </div>
+    {{ range first 6 (sort $services ".Params.weight") }}
+    <div class="col-12 col-md-4 mb-1">
+      {{ .Render "summary" }}
+    </div>
+    {{ end }}
+    <div class="col-12 text-center">
+      <a class="button button-primary" href="{{ .Site.BaseURL }}services">View All Services</a>
+    </div>
+  </div>
+</div>
+{{end}}
+
+{{ $reusablePages := $headless.Resources.ByType "page" }}
+{{ $reusablePages := sort $reusablePages ".Params.weight" }}
+{{ range first 1 $reusablePages }}
+<div id="home" class="strip bg-primary bg-cover bg-position-top bg-overlay" style="background-image: url('{{ .Params.background | relURL }}');">
+  <div class="container pt-8 pb-8 pb-md-12 pt-md-12">
+    <div class="row justify-content-center">
+      <div class="col-12 col-md-8 text-center text-white">
+        <h2>{{ .Title }}</h2>
+        <p>{{ .Content }}</p>
+        <a class="button button-white" href="{{ .Params.buttonLink | relURL }}">{{ .Params.button }}</a>
+      </div>
+    </div>
+  </div>
+</div>
+{{ end }}
+
+{{ $testimonials := .Site.Data.testimonials }}
+{{ if gt (len $testimonials) 0 }}
+<div id="homepage-testimonials" class="strip bg-light py-8">
+  <div class="container">
+    <div class="row justify-content-center mb-6">
+      <div class="col-12 col-lg-8 text-center">
+        <h2 class="mb-3">What people are saying</h2>
+        <p class="lead">Firsthand feedback from collaborators and community partners who have worked with us.</p>
+      </div>
+    </div>
+    <div class="row justify-content-center">
+      <div class="col-12 col-lg-10">
+        {{ partial "carousel.html" (dict "id" "testimonial-carousel" "items" $testimonials) }}
+      </div>
+    </div>
+  </div>
+</div>
+<style>
+#testimonial-carousel {
+  min-height: 340px;
+  background: rgba(255, 255, 255, 0.96);
+}
+#testimonial-carousel .carousel-inner {
+  padding: 2rem 1rem;
+}
+#testimonial-carousel .carousel-item {
+  min-height: 260px;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+#homepage-carousel .carousel-item.active {
+  display: flex;
+}
+#testimonial-carousel .carousel-caption {
+  position: static;
+  color: #262626;
+  background: rgba(255, 255, 255, 0.92);
+  padding: 2rem;
+  border-radius: 1rem;
+  box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.08);
+  max-width: 700px;
+  margin: 0 auto;
+}
+#testimonial-carousel .carousel-caption h5 {
+  font-size: 1rem;
+  font-weight: 500;
+  margin-top: 1rem;
+  margin-bottom: 0;
+  font-style: italic;
+}
+#testimonial-carousel .carousel-caption p {
+  font-size: 1.25rem;
+  line-height: 1.8;
+  margin: 0;
+}
+#testimonial-carousel .carousel-control-prev-icon,
+#testimonial-carousel .carousel-control-next-icon {
+  filter: invert(0) brightness(0.6);
+}
+</style>
+{{ end }}
+
+{{ range first 1 (after 1 $reusablePages) }}
+<div id="home" class="strip bg-primary bg-cover bg-position-top bg-overlay" style='background-image: url("{{ .Params.background | relURL }}");'>
+  <div class="container pt-8 pb-8 pb-md-12 pt-md-12">
+    <div class="row justify-content-center">
+      <div class="col-12 col-md-8 text-center text-white">
+        <h2>{{ .Title }}</h2>
+        {{ .Content }}
+        {{ if .Params.button }}
+          <a class="button button-white" href="{{ .Params.buttonLink | relURL }}">{{ .Params.button }}</a>
+        {{ end }}
+      </div>
+    </div>
+  </div>
+</div>
+{{ end }}
+
+{{ end }}
+
+{{ define "footer_js" }}
+{{ end }}

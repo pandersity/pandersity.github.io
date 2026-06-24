@@ -1,24 +1,23 @@
-baseURL = 'http://revitalizationtechnology.com/'
-locale = 'en-us'
-title = 'Revitalization Technology'
-theme = 'hugo-hero-theme'
-googleAnalytics = 'G-084817PXB0'
+baseURL = "https://www.example.com/"
+languageCode = "en-us"
+title = "Hugo Hero Theme"
+theme = "hugo-hero-theme"
 
 [module]
   [module.hugoVersion]
     extended = true
     min = "0.92.0"
-
+    
 [params]
-  google_analytics_id="G-084817PXB0"
+  google_analytics_id=""
 
   [params.logo]
-    mobile = "images/Wordmark_Transparent_Cropped.png"
-    mobile_height = "70px"
-    mobile_width = "150px"
-    desktop = "images/Wordmark_Transparent_Cropped.png"
-    desktop_height = "70px"
-    desktop_width = "150px"
+    mobile = "images/logo-mobile.svg"
+    mobile_height = "36px"
+    mobile_width = "36px"
+    desktop = "images/logo.svg"
+    desktop_height = "29px"
+    desktop_width = "217px"
     alt = "Hugo Hero"
 
   [params.homepage_meta_tags]
@@ -28,19 +27,22 @@ googleAnalytics = 'G-084817PXB0'
     meta_og_url = "https://hugo-hero.netlify.app"
     meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-hero-theme/master/images/tn.png"
     meta_og_description = "Hero is a multipurpose Hugo theme with fullscreen hero images and page sections. It contains content types for a business or portfolio site."
+    meta_twitter_card = "summary"
+    meta_twitter_site = "@zerostaticio"
+    meta_twitter_creator = "@zerostaticio"
 
 [[menu.main]]
-	name = "What"
+	name = "Services"
 	url = "/services/"
     weight = 1
 
 [[menu.main]]
-    name = "How"
+    name = "Work"
     url = "/work/"
     weight = 2
 
 [[menu.main]]
-    name = "Who"
+    name = "About"
     url = "/about/"
     weight = 3
 
@@ -48,3 +50,7 @@ googleAnalytics = 'G-084817PXB0'
     name = "Contact"
     url = "/contact/"
     weight = 4
+
+[permalinks]
+  post = "/:year/:month/:day/:slug/"
+  pages = "/:filename/"

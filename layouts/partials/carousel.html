@@ -1,0 +1,31 @@
+{{ $id := .id | default "carousel" }}
+<div id="{{ $id }}" class="carousel slide" data-bs-ride="carousel">
+  <!-- Indicators -->
+  <div class="carousel-indicators">
+    {{ range $index, $item := .items }}
+    <button type="button" data-bs-target="#{{ $id }}" data-bs-slide-to="{{ $index }}" {{ if eq $index 0 }}class="active" aria-current="true"{{ end }} aria-label="Slide {{ add $index 1 }}"></button>
+    {{ end }}
+  </div>
+
+  <!-- Carousel items -->
+  <div class="carousel-inner">
+    {{ range $index, $item := .items }}
+    <div class="carousel-item {{ if eq $index 0 }}active{{ end }}">
+      <div class="carousel-caption">
+        <p>{{ $item.text }}</p>
+        <h5>- {{ $item.person }} -</h5>
+      </div>
+    </div>
+    {{ end }}
+  </div>
+
+  <!-- Controls -->
+  <button class="carousel-control-prev" type="button" data-bs-target="#{{ $id }}" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#{{ $id }}" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </button>
+</div>
