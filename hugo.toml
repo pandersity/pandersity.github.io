@@ -17,12 +17,12 @@ googleAnalytics = 'G-084817PXB0'
   google_analytics_id="G-084817PXB0"
 
   [params.logo]
-    mobile = "images/Wordmark_Transparent_Cropped.png"
-    mobile_height = "70px"
-    mobile_width = "150px"
-    desktop = "images/Wordmark_Transparent_Cropped.png"
-    desktop_height = "70px"
-    desktop_width = "150px"
+    mobile = "images/RT_favicon.png"
+    mobile_height = "50px"
+    mobile_width = "50px"
+    desktop = "images/RT_favicon.png"
+    desktop_height = "50px"
+    desktop_width = "50px"
     alt = "Hugo Hero"
 
   [params.homepage_meta_tags]
